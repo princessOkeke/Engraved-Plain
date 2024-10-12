@@ -51,27 +51,27 @@ https://github.com/user-attachments/assets/67f60e09-eb25-4a5e-9bba-58c91fe029a1
 **Prerequisites:**
   - Install **Python 3.x**: [Download here](https://www.python.org/downloads/).
   - Install **required libraries**:
-    ```bash
-    pip install numpy tkmacosx
-    ```
+```bash
+pip install numpy tkmacosx
+```
 
  **Clone the Repository:**
   - Open your terminal.
   - Navigate to your desired directory.
   - Run:
-    ```bash
-    git clone https://github.com/princessOkeke/Engraved-Plain.git
-    ```
+```bash
+git clone https://github.com/princessOkeke/Engraved-Plain.git
+```
 
  **Run the Game:**
   - Change into the cloned directory:
-    ```bash
-    cd Engraved-Plain
-    ```
+```bash
+cd Engraved-Plain
+```
   - Execute the game:
-    ```bash
-    python GamePlay.py
-    ```
+```bash
+python3 GamePlay.py
+```
 
   **Notes:**
   - Ensure Tkinter is included with your Python installation.
