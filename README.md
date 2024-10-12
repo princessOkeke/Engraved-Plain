@@ -48,14 +48,14 @@ https://github.com/user-attachments/assets/67f60e09-eb25-4a5e-9bba-58c91fe029a1
 
 ### How to Clone and Play Engraved Plain
 
-- **Prerequisites:**
+**Prerequisites:**
   - Install **Python 3.x**: [Download here](https://www.python.org/downloads/).
-  - Install **NumPy**:
+  - Install **required libraries**:
     ```bash
-    pip install numpy
+    pip install numpy tkmacosx
     ```
 
-- **Clone the Repository:**
+ **Clone the Repository:**
   - Open your terminal.
   - Navigate to your desired directory.
   - Run:
@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/67f60e09-eb25-4a5e-9bba-58c91fe029a1
     git clone https://github.com/princessOkeke/Engraved-Plain.git
     ```
 
-- **Run the Game:**
+ **Run the Game:**
   - Change into the cloned directory:
     ```bash
     cd Engraved-Plain
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/67f60e09-eb25-4a5e-9bba-58c91fe029a1
     python GamePlay.py
     ```
 
-- **Notes:**
+  **Notes:**
   - Ensure Tkinter is included with your Python installation.
   - Follow the on-screen instructions to start playing!
 
