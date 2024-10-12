@@ -46,5 +46,37 @@ https://github.com/user-attachments/assets/67f60e09-eb25-4a5e-9bba-58c91fe029a1
 - The game continuously evaluates the state after each turn to detect wins or draws.
 - A reset option allows players to start fresh, re-randomizing restricted spaces.
 
+### How to Clone and Play Engraved Plain
+
+- **Prerequisites:**
+  - Install **Python 3.x**: [Download here](https://www.python.org/downloads/).
+  - Install **NumPy**:
+    ```bash
+    pip install numpy
+    ```
+
+- **Clone the Repository:**
+  - Open your terminal.
+  - Navigate to your desired directory.
+  - Run:
+    ```bash
+    git clone https://github.com/princessOkeke/Engraved-Plain.git
+    ```
+
+- **Run the Game:**
+  - Change into the cloned directory:
+    ```bash
+    cd Engraved-Plain
+    ```
+  - Execute the game:
+    ```bash
+    python GamePlay.py
+    ```
+
+- **Notes:**
+  - Ensure Tkinter is included with your Python installation.
+  - Follow the on-screen instructions to start playing!
+
+
 ## Conclusion
 **Engraved Plain** redefines the classic tic-tac-toe experience with its larger grid and added complexity. The combination of a user-friendly interface and a robust AI challenge provides engaging gameplay for all skill levels.
